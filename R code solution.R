@@ -11,3 +11,5 @@ df_month_summary <- df %>%
   summarise(Percentage=round(sum(n())/nrow(df),4))%>%
   arrange(desc(Percentage))
 df_month_summary$Percentage<-sprintf("%.1f %%",df_month_summary$Percentage*100)
+
+
