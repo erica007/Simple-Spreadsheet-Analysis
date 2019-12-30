@@ -1,2 +1,3 @@
 # Simple-Spreadsheet-Analysis
-I included two approach to handle this dataset. They are SQL and Python.
+I uploaded two solutions which are Excel and R.
+
